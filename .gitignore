@@ -1,0 +1,7 @@
+Data_Science/
+course_material/
+course_materials/
+lets_have_fun/
+*.class
+__pycache__/
+.DS_Store
